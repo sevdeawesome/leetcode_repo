@@ -18,3 +18,9 @@ https://neetcode.io/
 
 Leetcode Grind 75:
 https://www.techinterviewhandbook.org/grind75
+
+Cracking the coding interview PDF:
+https://cloudflare-ipfs.com/ipfs/bafykbzaced5tt2u4cclrekuyztzyezvhxtgcuvraquragvp5ytwl2cbsxgvk6?filename=Gayle%20Laakmann%20McDowell%20-%20Cracking%20the%20Coding%20Interview_%20150%20Programming%20Questions%20and%20Solutions-CareerCup%20%282011%29.pdf
+
+Kaggle Free courses:
+https://www.kaggle.com/learn

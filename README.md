@@ -32,3 +32,7 @@ https://www.kaggle.com/learn
 
 Free MIT Deep Learning Lectures
 https://deeplearning.mit.edu/
+
+
+## Python Cheat Sheet:
+https://leetcode.com/discuss/study-guide/2122306/python-cheat-sheet-for-leetcode

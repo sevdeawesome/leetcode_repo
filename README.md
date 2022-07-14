@@ -61,8 +61,8 @@ Dr. Eamonn Keogh explaining time series data mining with the matrix profile:
 https://www.youtube.com/watch?v=1ZHW977t070 and https://www.youtube.com/watch?v=LnQneYvg84M
 
 Interesting Lex Fridman AI lectures:
-https://youtu.be/Z6rxFNMGdn0
-https://youtu.be/bfO4EkoGh40
+https://youtu.be/Z6rxFNMGdn0 and 
+https://youtu.be/bfO4EkoGh40 and
 https://youtu.be/4PuuziOgSU4
 
 AI debate Yoshua Bengio vs Gary Marcus

@@ -44,7 +44,7 @@ https://www.freecodecamp.org/learn/machine-learning-with-python/
 
 
 ## Interesting AI/ML stuff:
-* Fun books on AGI and ML I like:
+Good books on AGI and ML I like:
 * Life 3.0
 * AI Superpowers: China, Silicon Valley, and the New World Orderby Kai-Fu Lee, an Artificial Intelligence pioneer, expert on China and a venture capitalist.
 * The master Algorithm

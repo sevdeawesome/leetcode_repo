@@ -25,6 +25,9 @@ https://www.techinterviewhandbook.org/grind75
 ## Cracking the coding interview PDF:
 https://cloudflare-ipfs.com/ipfs/bafykbzaced5tt2u4cclrekuyztzyezvhxtgcuvraquragvp5ytwl2cbsxgvk6?filename=Gayle%20Laakmann%20McDowell%20-%20Cracking%20the%20Coding%20Interview_%20150%20Programming%20Questions%20and%20Solutions-CareerCup%20%282011%29.pdf
 
+## Python Cheat Sheet:
+https://leetcode.com/discuss/study-guide/2122306/python-cheat-sheet-for-leetcode
+
 
 ## Machine Learning and Deep Learning and AI
 Roadmap of Machine Learning Pipeline (good video if new to ML):
@@ -39,6 +42,8 @@ https://deeplearning.mit.edu/
 Freecodecamp tensorFlow / machine learning with python:
 https://www.freecodecamp.org/learn/machine-learning-with-python/
 
+
+## Interesting AI/ML stuff:
 Fun books on AGI and ML I like:
 Life 3.0
 AI Superpowers: China, Silicon Valley, and the New World Orderby Kai-Fu Lee, an Artificial Intelligence pioneer, expert on China and a venture capitalist.
@@ -47,12 +52,6 @@ The singularity is near
 Deep learning hardware design 
 Computer Architecture, A Quantitative perspective 
 Deep learning for Computer architects 
-
-
-
-
-## Python Cheat Sheet:
-https://leetcode.com/discuss/study-guide/2122306/python-cheat-sheet-for-leetcode
 
 Machine Learning Reddit:
 https://www.reddit.com/r/MachineLearning/

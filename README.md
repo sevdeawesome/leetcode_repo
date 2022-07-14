@@ -69,6 +69,6 @@ AI debate Yoshua Bengio vs Gary Marcus
 https://youtu.be/8NNDCuSgls0
 
 Papers:
-* #tpu paper by Norm Jouppi (https://lnkd.in/gc9n8ZPn Performance Analysis of a Tensor Processing Unit.md)
-* "Efficient processing of deep neural networks, A Survey" by Vivienne Sze et al. (https://lnkd.in/gRzhmUr3)
-* Excellent compilation of all research papers in this space by BirenResearch (https://lnkd.in/g7c4nduF)
+* #tpu paper by Norm Jouppi (Performance Analysis of a Tensor Processing Unit.md)
+* "Efficient processing of deep neural networks, A Survey" by Vivienne Sze et al. 
+* Excellent compilation of all research papers in this space by BirenResearch 

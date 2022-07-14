@@ -73,3 +73,4 @@ Papers:
 * "Efficient processing of deep neural networks, A Survey" by Vivienne Sze et al. 
 * Excellent compilation of all research papers in this space by BirenResearch 
 * Hyperparameter tuning paper: https://arxiv.org/abs/1803.09820
+* Soar architecture (cognitive architecture) https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)

@@ -60,6 +60,9 @@ Dr. Eamonn Keogh explaining time series data mining with the matrix profile:
 * https://www.youtube.com/watch?v=1ZHW977t070
 * https://www.youtube.com/watch?v=LnQneYvg84M
 
+Google tensorFlow zero to hero:
+https://www.youtube.com/watch?v=VwVg9jCtqaU
+
 Interesting Lex Fridman AI lectures:
 * https://youtu.be/Z6rxFNMGdn0 and 
 * https://youtu.be/bfO4EkoGh40 and
@@ -74,3 +77,8 @@ Papers:
 * Excellent compilation of all research papers in this space by BirenResearch 
 * Hyperparameter tuning paper: https://arxiv.org/abs/1803.09820
 * Soar architecture (cognitive architecture) https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)
+
+Articles:
+https://huyenchip.com/2020/06/22/mlops.html
+
+

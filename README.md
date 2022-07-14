@@ -46,23 +46,29 @@ https://www.freecodecamp.org/learn/machine-learning-with-python/
 ## Interesting AI/ML stuff:
 * Fun books on AGI and ML I like:
 * Life 3.0
-AI Superpowers: China, Silicon Valley, and the New World Orderby Kai-Fu Lee, an Artificial Intelligence pioneer, expert on China and a venture capitalist.
-The master Algorithm
-The singularity is near
-Deep learning hardware design 
-Computer Architecture, A Quantitative perspective 
-Deep learning for Computer architects 
+* AI Superpowers: China, Silicon Valley, and the New World Orderby Kai-Fu Lee, an Artificial Intelligence pioneer, expert on China and a venture capitalist.
+* The master Algorithm
+* The singularity is near
+* Deep learning hardware design 
+* Computer Architecture, A Quantitative perspective 
+* Deep learning for Computer architects 
 
 Machine Learning Reddit:
 https://www.reddit.com/r/MachineLearning/
 
 Dr. Eamonn Keogh explaining time series data mining with the matrix profile:
-https://www.youtube.com/watch?v=1ZHW977t070 and https://www.youtube.com/watch?v=LnQneYvg84M
+* https://www.youtube.com/watch?v=1ZHW977t070
+* https://www.youtube.com/watch?v=LnQneYvg84M
 
 Interesting Lex Fridman AI lectures:
-https://youtu.be/Z6rxFNMGdn0 and 
-https://youtu.be/bfO4EkoGh40 and
-https://youtu.be/4PuuziOgSU4
+* https://youtu.be/Z6rxFNMGdn0 and 
+* https://youtu.be/bfO4EkoGh40 and
+* https://youtu.be/4PuuziOgSU4
 
 AI debate Yoshua Bengio vs Gary Marcus
 https://youtu.be/8NNDCuSgls0
+
+Papers:
+* #tpu paper by Norm Jouppi (https://lnkd.in/gc9n8ZPn Performance Analysis of a Tensor Processing Unit.md)
+* "Efficient processing of deep neural networks, A Survey" by Vivienne Sze et al. (https://lnkd.in/gRzhmUr3)
+* Excellent compilation of all research papers in this space by BirenResearch (https://lnkd.in/g7c4nduF)
